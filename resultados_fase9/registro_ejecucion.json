@@ -1,0 +1,15 @@
+{
+  "modelo": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "chunk_tokens": 120,
+  "overlap_tokens": 20,
+  "min_tokens_fragmento": 15,
+  "permutaciones": 10000,
+  "semilla": 42,
+  "top_n_perfil_eje": 10,
+  "n_muestra_por_eje": 5,
+  "python": "3.11.3",
+  "sentence_transformers": "3.0.1",
+  "torch": "2.12.0+cpu",
+  "dispositivo": "cpu",
+  "segundos": 482.1
+}
